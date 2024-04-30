@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    display: flex;
+
+}
+.foot{
+background-color: blue;
+height: 300px;
+width: 100%;
+color: white;
+
+
+}
+.foot a{
+    color: white;
+    display: block;
+    list-style: none;
+  padding: 10px;
+ 
+}
+.foot i{
+ gap: 10px;
+ display: flex;
+ color: white;
+
+}
